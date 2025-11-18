@@ -1,0 +1,2 @@
+# Analyzing-Customer-Churn-and-Retention-Patterns-in-a-UK-Based-Multinational-Retail-Bank
+Analyzed customer churn at Veritas Bank across the UK, Germany, and France. Built Power BI dashboards linking demographics, tenure, product usage, and credit scores to churn risk. Identified high-risk segments, enabled targeted retention campaigns, reduced churn, and provided leadership with actionable insights.
